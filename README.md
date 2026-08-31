@@ -1,8 +1,8 @@
 <img src="Profile Banner.png" alt="Profile Banner" width="100%" />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Coolbones236&show_icons=true&theme=radical" alt="David's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coolbones236&layout=compact&theme=radical" alt="David's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Coolbones236&show_icons=true&theme=radical&v=1" alt="David's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coolbones236&layout=compact&theme=radical&v=1" alt="David's Top Languages" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coolbones236&theme=radical" alt="David's GitHub Streak" />
 </div>
