@@ -11,8 +11,9 @@
 
 I am a Computer Information Systems and Technology student specializing in Cybersecurity at The University of Texas at Dallas. I also hold an Associate of Applied Science in Interactive Simulation & Game Technology from Dallas College. I enjoy creating tools that automate daily tasks, optimize IT operations, and enhance data workflows.
 
-🎓 **Education:** BS in CISTECH (Cybersecurity) at UT Dallas | AAS in Interactive Simulation & Game Technology at Dallas College
-🎯 **Current Focus:** Pursuing the Google Cybersecurity Certificate.
+* 🌍 **Location:** Dallas, Texas
+* 🎓 **Education:** BS in CISTECH (Cybersecurity) at UT Dallas | AAS in Interactive Simulation & Game Technology at Dallas College
+* 🎯 **Current Focus:** Pursuing the Google Cybersecurity Certificate.
 
 ---
 
