@@ -1,4 +1,4 @@
-<img src="Profile Banner.jpg" alt="Profile Banner" width="100%" />
+<img src="Profile Banner.png" alt="Profile Banner" width="100%" />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Coolbones236&show_icons=true&theme=radical" alt="David's GitHub Stats" />
