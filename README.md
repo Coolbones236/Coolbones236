@@ -25,13 +25,12 @@ I am a Computer Information Systems and Technology student specializing in Cyber
 *   **Programming & Scripting:** Python, Google Apps Script
 *   **IT Operations:** Hardware Diagnostics, Data Recovery, Windows OS Troubleshooting
 *   **Tools:** Git, Visual Studio Code, MS Excel, Tableau, Toast POS
-
 *   <div align="center">
   <h3>Tech Stack</h3>
   
   <!-- Core Tools & Languages -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,git,github,vscode,windows,linux" />
+    <img src="https://skillicons.dev/icons?i=py,git,github,vscode,windows,linux" />
   </a>
   <br/><br/>
   
