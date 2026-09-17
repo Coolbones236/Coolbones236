@@ -20,11 +20,6 @@ I am a Computer Information Systems and Technology student specializing in Cyber
 ---
 
 ## 🛠️ Tech Stack & Tools
-
-*   **Security & Networking:** Cybersecurity Fundamentals, Threat Detection, Access Controls
-*   **Programming & Scripting:** Python, Google Apps Script
-*   **IT Operations:** Hardware Diagnostics, Data Recovery, Windows OS Troubleshooting
-*   **Tools:** Git, Visual Studio Code, MS Excel, Tableau, Toast POS
 *   <div align="center">
   <h3>Tech Stack</h3>
   
@@ -34,11 +29,11 @@ I am a Computer Information Systems and Technology student specializing in Cyber
   </a>
   <br/><br/>
   
-  <!-- Data & Analytics Badges -->
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-</div>
+*   **Security & Networking:** Cybersecurity Fundamentals, Threat Detection, Access Controls
+*   **Programming & Scripting:** Python, Google Apps Script
+*   **IT Operations:** Hardware Diagnostics, Data Recovery, Windows OS Troubleshooting
+*   **Tools:** Git, Visual Studio Code, MS Excel, Tableau, Toast POS
+
 
 ---
 
