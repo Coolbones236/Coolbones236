@@ -26,6 +26,21 @@ I am a Computer Information Systems and Technology student specializing in Cyber
 *   **IT Operations:** Hardware Diagnostics, Data Recovery, Windows OS Troubleshooting
 *   **Tools:** Git, Visual Studio Code, MS Excel, Tableau, Toast POS
 
+*   <div align="center">
+  <h3>Tech Stack</h3>
+  
+  <!-- Core Tools & Languages -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,git,github,vscode,windows,linux" />
+  </a>
+  <br/><br/>
+  
+  <!-- Data & Analytics Badges -->
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+</div>
+
 ---
 
 ## 🚀 Highlighted Projects
@@ -37,6 +52,16 @@ I am a Computer Information Systems and Technology student specializing in Cyber
 *   **Legacy Data Recovery:** Executed file extractions by troubleshooting mechanical drive failures on legacy IDE/PATA hardware using specialized adapters.
 
 ---
+
+## 📫 Let's Connect!
+<div align="center">
+  <a href="https://linkedin.com/in/david-fernandez-utd">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:dal637489@utdallas.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
 *   **LinkedIn:** [linkedin.com/in/david-fernandez-utd](https://www.linkedin.com/in/david-fernandez-utd)
 *   **Email:** [dal637489@utdallas.edu](mailto:dal637489@utdallas.edu)
