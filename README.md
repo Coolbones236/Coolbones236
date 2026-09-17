@@ -20,7 +20,7 @@ I am a Computer Information Systems and Technology student specializing in Cyber
 ---
 
 ## 🛠️ Tech Stack & Tools
-*   <div align="center">
+   <div align="center">
   <h3>Tech Stack</h3>
   
   <!-- Core Tools & Languages -->
