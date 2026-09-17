@@ -38,16 +38,5 @@ I am a Computer Information Systems and Technology student specializing in Cyber
 
 ---
 
-## 📫 Let's Connect!
-
-<div align="center">
-  <a href="https://linkedin.com/in/david-fernandez-utd">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:dal637489@utdallas.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
 *   **LinkedIn:** [linkedin.com/in/david-fernandez-utd](https://www.linkedin.com/in/david-fernandez-utd)
 *   **Email:** [dal637489@utdallas.edu](mailto:dal637489@utdallas.edu)
