@@ -1,3 +1,5 @@
+<img src="Profile Banner.png" alt="Profile Banner" width="100%" />
+
 <div align="center">
 
 # Hi 👋, I'm David Fernandez (Coolbones236)
