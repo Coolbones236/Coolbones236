@@ -1,61 +1,57 @@
-<img src="Profile Banner.png" alt="Profile Banner" width="100%" />
-
 <div align="center">
-  <!-- Temporarily hidden due to server outage
-  <img src="https://github-readme-stats.vercel.app/api?username=Coolbones236&show_icons=true&theme=radical" alt="David's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coolbones236&layout=compact&theme=radical" alt="David's Top Languages" />
-  -->
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coolbones236&theme=radical" alt="David's GitHub Streak" />
+
+# Hi 👋, I'm David Fernandez (Coolbones236)
+
+**CISTECH Undergraduate & IT Specialist | Python Automation & Security Tools**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-fernandez-utd)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dal637489@utdallas.edu)
+
+<br />
+
+### 🛠️ Tech Stack & Tools
+
+<!-- Core Developer Tools & Languages -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,git,github,vscode,windows,linux" />
+</a>
+
+<br /><br />
+
+<!-- Specialized Tools & Frameworks -->
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+<img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Apps Script" />
+
+<br /><br />
+
+### 📊 GitHub Activity
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Coolbones236&theme=tokyonight&hide_border=true" alt="David's GitHub Streak" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Coolbones236&theme=tokyo-night&hide_border=true" alt="David's Activity Graph" />
+
 </div>
 
-# Hi there, my name is David Fernandez also known as Coolbones236 👋
+---
 
-I am a Computer Information Systems and Technology student specializing in Cybersecurity at The University of Texas at Dallas. I also hold an Associate of Applied Science in Interactive Simulation & Game Technology from Dallas College. I enjoy creating tools that automate daily tasks, optimize IT operations, and enhance data workflows.
+### 📌 About Me
+
+I am a Computer Information Systems and Technology student specializing in Cybersecurity at The University of Texas at Dallas, holding an Associate of Applied Science in Interactive Simulation & Game Technology from Dallas College. I build tools that automate workflows, streamline IT operations, and enhance data pipelines.
 
 * 🌍 **Location:** Dallas, Texas
-* 🎓 **Education:** BS in CISTECH (Cybersecurity) at UT Dallas | AAS in Interactive Simulation & Game Technology at Dallas College
-* 🎯 **Current Focus:** Pursuing the Google Cybersecurity Certificate.
+* 🎓 **Education:** BS in CISTECH (Cybersecurity) @ UT Dallas | AAS in Interactive Simulation & Game Tech @ Dallas College
+* 🎯 **Current Focus:** Google Cybersecurity Certificate & SOC Analysis
 
 ---
 
-## 🛠️ Tech Stack & Tools
-   <div align="center">
-  <h3>Tech Stack</h3>
-  
-  <!-- Core Tools & Languages -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,git,github,vscode,windows,linux" />
-  </a>
-  <br/><br/>
-  
-*   **Security & Networking:** Cybersecurity Fundamentals, Threat Detection, Access Controls
-*   **Programming & Scripting:** Python, Google Apps Script
-*   **IT Operations:** Hardware Diagnostics, Data Recovery, Windows OS Troubleshooting
-*   **Tools:** Git, Visual Studio Code, MS Excel, Tableau, Toast POS
+### 🚀 Highlighted Projects
 
-
----
-
-## 🚀 Highlighted Projects
-
-*   **[SVT (AI Video Transcription Software)](https://github.com/Coolbones236/svt):** Developed an AI-powered transcription tool using Python and Whisper to transcribe media with 95% text accuracy, streamlining media processing workflows.
-*   **[Text To Speech Studio](https://github.com/Coolbones236/text-to-speech-studio):** Engineered a desktop application utilizing data structures to convert over 5000-word text strings into automated audio outputs, enhancing accessibility.
-*   **[Dynamic Invoice Generator](https://github.com/Coolbones236/invoice-generator):** Developed a financial documentation tool featuring a live preview interface and mobile app to automate the rendering of structured business documents, reducing manual loading by 80%.
-*   **Interactive Logic & State Machine Design:** Created backend logic flows, data structures, and branching frameworks for interactive applications within a 5-person development team.
-*   **Legacy Data Recovery:** Executed file extractions by troubleshooting mechanical drive failures on legacy IDE/PATA hardware using specialized adapters.
-
----
-
-## 📫 Let's Connect!
-<div align="center">
-  <a href="https://linkedin.com/in/david-fernandez-utd">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:dal637489@utdallas.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
-*   **LinkedIn:** [linkedin.com/in/david-fernandez-utd](https://www.linkedin.com/in/david-fernandez-utd)
-*   **Email:** [dal637489@utdallas.edu](mailto:dal637489@utdallas.edu)
+* **[SVT (AI Video Transcription Software)](https://github.com/Coolbones236/svt):** Desktop transcription software powered by faster-whisper for accurate, local batch audio/video processing.
+* **[Text To Speech Studio](https://github.com/Coolbones236/text-to-speech-studio):** Python-based desktop utility utilizing edge-tts and CustomTkinter for high-volume, batch audio synthesis.
+* **[Dynamic Invoice Generator](https://github.com/Coolbones236/invoice-generator):** Standalone documentation tool featuring real-time document preview and automated PDF exports.
+* **Interactive Logic & State Machine Design:** Branching logic and state machine architecture built for modular gameplay and interactive simulation mechanics.
+* **Legacy Data Recovery:** Low-level data recovery operations addressing mechanical and controller faults across legacy PATA/IDE hardware.
