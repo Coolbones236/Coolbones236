@@ -51,7 +51,7 @@ I am a Computer Information Systems and Technology student specializing in Cyber
 
 ### 🚀 Highlighted Projects
 
-* **[SVT (AI Video Transcription Software)]([https://github.com/Coolbones236/svt](https://github.com/Coolbones236/Simple-Video-Transcriber)):** Desktop transcription software powered by faster-whisper for accurate, local batch audio/video processing.
+* **[SVT (AI Video Transcription Software)](https://github.com/Coolbones236/Simple-Video-Transcriber)):** Desktop transcription software powered by faster-whisper for accurate, local batch audio/video processing.
 * **[Text To Speech Studio](https://github.com/Coolbones236/text-to-speech-studio):** Python-based desktop utility utilizing edge-tts and CustomTkinter for high-volume, batch audio synthesis.
 * **[Dynamic Invoice Generator](https://github.com/Coolbones236/invoice-generator):** Standalone documentation tool featuring real-time document preview and automated PDF exports.
 * **Interactive Logic & State Machine Design:** Branching logic and state machine architecture built for modular gameplay and interactive simulation mechanics.
